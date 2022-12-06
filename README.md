@@ -16,4 +16,4 @@
 
 **Ссылка**
 
-По этой ссылке вы можете ознакомиться с проектом [GitHub Pages]().
+По этой ссылке вы можете ознакомиться с проектом [GitHub Pages](https://alexandrakuular.github.io/russian-travel-Alex_Kuular/).
