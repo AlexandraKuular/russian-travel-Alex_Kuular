@@ -1,0 +1,30 @@
+.cover__link {
+  text-decoration: none;
+  background-color: rgba(42, 44, 47, 0.3);
+  color: #ffffff;
+  padding-top: 245px;
+  padding-bottom: 245px;
+  display: block;
+  transition: background-color .4s linear;
+}
+.cover__link:hover {
+  background-color: rgba(42, 44, 47, 0.8);
+}
+@media screen and (max-width: 1279px) {
+  .cover__link {
+    padding-top: 195px;
+    padding-bottom: 195px;
+  }
+}
+@media screen and (max-width: 1023px) {
+  .cover__link {
+    padding-top: 115px;
+    padding-bottom: 115px;
+  }
+}
+@media (max-width: 767px) {
+  .cover__link {
+    padding-top: 33px;
+    padding-bottom: 33px;
+  }
+}
